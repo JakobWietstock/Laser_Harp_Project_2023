@@ -1,0 +1,89 @@
+nur für Nutzung innerhalb der Gruppe. Nicht zur Bewertung gedacht.
+
+7min. Anscheinend keine Verwendung des Prototyps intended
+
+Team members: Who are you?
+Wie letztes mal
+
+Project idea: What is your topic? Who is your product for?
+Laser harp, ...
+
+
+What were your goals? What requirements did you have?
+Playable with your hands by breaking lasers 
+7 basic notes
+2 octaves
+5 halftones each
+
+visual feedback for disrupting lasers
+
+
+Development progress throughout the course, including challenges and how you overcame them:
+
+*****Reihenfolge angepasst*********
+    Explain your initial concept based on your sketches/storyboards, and cardboard/paper/clay prototypes
+
+
+
+    How did you evaluate your prototype, with whom, and what were the results? You should report both on the early peer evaluation in class, and the later evaluation with your target group.
+        early
+        mit David + teammate
+        Kritik:
+        Lob:
+
+        Daraus folgendes nächstes Design:
+        Design sieht aus wie Harfe für intuitive Nutzung
+
+
+
+        
+        
+
+   
+
+        What parts of your initial concept were achieved? Which weren’t?
+        ...
+
+         Highlight the interaction features of your final prototype.
+    lasers
+    Octave-switch, sharp-button, volume selector
+
+
+    Make sure to include video clip(s), showing your final product in action (i.e., being user/interacted with by a user)
+    Anschalten durch einstecken, LED checken, Lautstärke verändern, Spielen, dabei Oktave + Halbtöne zeigen
+    evt Video mit erkennbarem Musikstück produzieren.
+
+final eval
+        Jakob 
+
+    How did you build your prototype? What Electronics, components, materials,.. were used (e.g. for casing). What tools did you use?
+    Light sensors, Lasers
+    raspberry pi, python
+    speakers powered via usb raspi
+    power strip inside
+    2 raspberries for power supply 
+    Wooden frame from the workshop
+        pre-drilled and screwed together by us
+
+
+*****Reihenfolge angepasst ENDE*********
+
+Lessons learned, outlook
+    Experience in the group
+    Our areas of expertise and interest matched up quite well
+    bigger group harder time management
+
+    What did you learn in this course?
+    people really like soldering
+    Electronics, Raspberry Pi Programming, Things often don't go your way (Software but especially hardware), always have backup plan, 
+    Whatever can go wrong will go wrong.
+
+    What limitations does your final device have? How could you improve upon your design in future iterations?
+    laser aiming is implemented rather amateurish (playdoo)
+    No flat-key (not needed for prototype because enharmonic equivalence)
+    sound can't resemble instruments 
+
+
+    What would you have done differently in retrospect?
+    started earlier with ordering and building
+    planning some things out more and having an alternative plan
